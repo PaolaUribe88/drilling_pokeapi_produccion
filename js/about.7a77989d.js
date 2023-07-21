@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdrilling_pokeapi"]=self["webpackChunkdrilling_pokeapi"]||[]).push([[443],{782:function(n,i,a){a.r(i),a.d(i,{default:function(){return p}});var e=a(252);const r={class:"about"},u=(0,e._)("h1",null,"This is an about page",-1),t=[u];function s(n,i){return(0,e.wg)(),(0,e.iD)("div",r,t)}var l=a(744);const c={},o=(0,l.Z)(c,[["render",s]]);var p=o}}]);
+//# sourceMappingURL=about.7a77989d.js.map
